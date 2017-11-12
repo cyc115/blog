@@ -1,0 +1,14 @@
+baseURL = "mikechendev.com"
+languageCode = "en-us"
+title = "Today I learned"
+theme = "kiss"
+paginate = 10
+enableRobotsTXT = true
+tag ="tags"
+
+[params.social]
+github = "cyc115"
+email = "yuechuan20@gmail.com"
+linkedin = "yuechuan-mike-chen-995b9b54"
+facebook = "chen.yuechuan"
+
