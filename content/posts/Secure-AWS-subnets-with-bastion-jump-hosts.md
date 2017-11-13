@@ -1,7 +1,7 @@
 ---
 title: "Secure AWS subnets with bastion jump hosts"
 date: 2017-11-11T17:02:01-06:00
-draft: true
+draft: false
 tags: ["AWS", "security"]
 ---
  

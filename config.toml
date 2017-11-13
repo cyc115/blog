@@ -1,4 +1,4 @@
-baseURL = "mikechendev.com"
+baseURL = "http://today-i-learned-blog.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
 title = "Today I learned"
 theme = "kiss"
@@ -11,4 +11,5 @@ github = "cyc115"
 email = "yuechuan20@gmail.com"
 linkedin = "yuechuan-mike-chen-995b9b54"
 facebook = "chen.yuechuan"
+
 
